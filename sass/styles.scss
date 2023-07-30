@@ -150,7 +150,7 @@ body {
 
     &__product-name {
       font-family: var(--ff-fraunces);
-      font-size: 2.75rem;
+      font-size: 2.5rem;
       color: var(--neutral-clr1);
       font-weight: var(--fw-bold);
       line-height: 2.5rem;
@@ -190,6 +190,7 @@ body {
       gap: 1rem;
       justify-content: center;
       padding: 10px;
+      font-weight: var(--fw-bold);
 
       &:hover {
         background-color: var(--primary-clr1-hover);
